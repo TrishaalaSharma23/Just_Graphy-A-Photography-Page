@@ -1,9 +1,9 @@
 # Just_Graphy-A-Photography-Page
 
 ⚙️ Run Locally
-Step1: git clone <repository-url>
-Step2: cd JUST_GRAPHY
-Step3: Open MiniProject.html in your browser.
+1) git clone <repository-url>
+2) cd JUST_GRAPHY
+3) Open MiniProject.html in your browser.
 
 JUST GRAPHY is a responsive photography portfolio landing page built using HTML5 and CSS3, featuring a modern sidebar navigation system and visually engaging UI design.
 
