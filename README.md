@@ -24,3 +24,5 @@ Features:
 3) Social media integration
 4) Modern UI/UX design
 5) Pure CSS interactions
+
+Developed by Trishaala Sharma.
