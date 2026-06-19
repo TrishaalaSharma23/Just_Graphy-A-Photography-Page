@@ -25,4 +25,4 @@ Features:
 4) Modern UI/UX design
 5) Pure CSS interactions
 
-Developed by Trishaala Sharma.
+Developed by <b>Trishaala Sharma.</b>
